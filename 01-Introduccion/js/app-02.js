@@ -1,5 +1,3 @@
-//alert('Hola Mundo');
-
 //Lo que se puede hacer con JavaScript.
 
 //El 'prompt' es como un alert el cual en este caso, nos otorga un input y se asigna a la variable el texto asignado en el input.
